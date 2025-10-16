@@ -4,3 +4,4 @@ target/
 Cargo.lock
 flamegraph.svg
 result.lua
+.env
